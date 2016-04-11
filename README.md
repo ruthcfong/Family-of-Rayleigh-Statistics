@@ -1,1 +1,1 @@
-# Family-of-Raleigh-Statistics
+# Family-of-Rayleigh-Statistics
